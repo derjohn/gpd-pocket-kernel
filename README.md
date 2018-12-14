@@ -1,5 +1,5 @@
 # Development stopped
-I sell my GPD Pocket 1 and bought GPD Pocket 2, which have 100% support in mainline kernel and working above the expectations. It is sad, but I must stop developing and close my github repo. Thanks yor sharing and your siupport, you is a part of BIG linux comunity!
+I sold my GPD Pocket 1 and bought a GPD Pocket 2, which has 100% support in mainline kernel and is working above my expectations. It is sad, but I must stop developing and close my github repo. Thanks yor sharing and your support, you is a part of BIG linux comunity! <3 <3 <3
 Peter 
 
 # Ubuntu kernel for GPD Pocket
